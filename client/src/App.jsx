@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 
 // LET OP: Voor Fase 3 verander je dit naar je Render URL
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://discord-dashboard-dxop.onrender.com';
 
 function App() {
   const [user, setUser] = useState(null);
