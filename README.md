@@ -1,5 +1,12 @@
 # 🎮 Discord & Minecraft Integration Dashboard
 
+![Java](https://img.shields.io/badge/Minecraft-Java_Edition-orange?logo=minecraft)
+![NodeJS](https://img.shields.io/badge/Node.js-v18%2B-green?logo=node.js)
+![React](https://img.shields.io/badge/React-v18-blue?logo=react)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-forestgreen?logo=mongodb)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
 Full-stack SaaS application for managing Discord communities and Minecraft servers.  
 Users can log in with Discord, manage their servers, view Minecraft stats, and set up custom bot commands.
 
