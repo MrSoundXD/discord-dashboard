@@ -6,14 +6,12 @@
 
 body {
     background-color: #121212;
-    /* Dirt texture background */
     background-image: url('https://www.transparenttextures.com/patterns/cubes.png');
     color: #dedede;
     font-family: 'VT323', monospace;
     font-size: 1.3rem;
 }
 
-/* Minecraft Button Style */
 .mc-btn {
     box-shadow: inset -4px -4px #0006, inset 4px 4px #ffffff60;
     image-rendering: pixelated;
